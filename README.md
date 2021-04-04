@@ -1,5 +1,5 @@
 # reMarkable-year-week-tasks-planner
-Clickable Year-Week-Tasks PDF planner for the Remarkable Tablet. 
+Clickable Year-Week-Tasks PDF planner for the reMarkable Tablet. 
 
 Latest version from my post on r/RemarkableTablet:  Better grayscale & cleaner year view. Tab style page headers & neater clickable icons ( ♡ palm os).   
 
