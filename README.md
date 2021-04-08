@@ -1,7 +1,7 @@
 # reMarkable-year-week-tasks-planner
 Clickable Year-Week-Tasks PDF planner for the reMarkable Tablet. 
 
-Download the PDF for your remarkable or the docx to make your own changes.
+Download the PDF for your reMarkable or the docx to make your own changes.
 
 **Screenshot**
 ![Screenshot.jpg](Screenshot.jpg)
