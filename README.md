@@ -1,8 +1,6 @@
 # reMarkable-year-week-tasks-planner
 Clickable Year-Week-Tasks PDF planner for the reMarkable Tablet. 
 
-Latest version from my post on r/RemarkableTablet:  Better grayscale & cleaner year view. Tab style page headers & neater clickable icons ( ♡ palm os).   
-
 Download the PDF for your remarkable or the docx to make your own changes.
 
 **Screenshot**
@@ -10,5 +8,5 @@ Download the PDF for your remarkable or the docx to make your own changes.
 
 (Migrating from a previous version can be done by just copying a whole page of writing from the old version, and pasting in to this new versions. Spacing will match).
 
-Year and Week sheets sourced from the https://www.calendarpedia.co.uk/ resource.  Merged together, modified, hyperlinks, bookmarks and Cornell style Tasks sheet added.
+Year and Week sheets sourced from the https://www.calendarpedia.co.uk/ resource.  Merged together, modified, hyperlinks, bookmarks and Cornell style Tasks sheet added. Cleaned up the year view and grayscale. Tab style page headers & neater clickable icons ( ♡ palm os).   
 
