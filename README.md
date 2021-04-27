@@ -10,4 +10,4 @@ Year and Week sheets sourced from the https://www.calendarpedia.co.uk/ resource.
 
 V2 - Flipped Cornell style Task sheets to give a larger space at the top, for working on the current task.
 
-Migrating from previous versions posted on reddit can be done by just copying a whole page of writing from the old week view, and pasting in to this new versions. Spacing will match.
+Migrating from previous versions posted can be done by just copying a whole page of writing, and pasting in to newer versions. Spacing will match.
